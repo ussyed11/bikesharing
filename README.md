@@ -11,8 +11,7 @@ We used the following resources to generate our visual analysis:
 
 * Source Files: 201908-citibike-tripdata.csv, nyc_citibike_new.csv
 * Software: Tableau, Python 3.7.6, Jupyter Notebook, Pandas Library
-
-[This is an external link to our Tableau story] (https://public.tableau.com/views/NYCCitiBikeSharingAnalysis_16535281061040/NYCCitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link) 
+[Click here to see our Tableau Public analysis](https://public.tableau.com/views/NYCCitiBikeSharingAnalysis_16535281061040/NYCCitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Our first Tableau story point shows that the bar graph shows that the August bike retal peak hours are betwen 5pm and 7pm.  We can conclude that people might be renting bikes after their work to either go back to their residences or to go to catch the public transportations.
 
