@@ -1,4 +1,4 @@
-# bikesharing
+
 ## Overview
 
 The purpose of Citi Bikesharing analysis is to prepare visualizations that give potential investors a look into the highly-successful NYC Citibike bike-sharing program, so that they can decide if a bike-sharing program in Des Moines is a profitable business proposal. Our visual analysis highlights key features such as :
